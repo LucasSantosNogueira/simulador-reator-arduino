@@ -72,5 +72,5 @@ O comportamento das variáveis foi monitorado em tempo real através de ferramen
 ## 🙋‍♂️ Autor
 
 Desenvolvido por **Lucas Santos Nogueira**
-* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://linkedin.com/in/lucas-santos-nogueira)
+* 💼 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/lucas-santos-nogueira-8404a0379/)
 * ✉️ **E-mail:** [Entre em contato comigo](mailto:lucassantosnogueira8@gmail.com)
