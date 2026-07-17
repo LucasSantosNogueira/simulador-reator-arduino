@@ -56,8 +56,6 @@ O projeto foi estruturado em duas camadas hierárquicas claras de automação:
 
 O comportamento das variáveis foi monitorado em tempo real através de ferramentas de plotagem gráfica (Serial Plotter), simulando a interface de um sistema supervisório industrial clássico (**SCADA**).
 
-*Insira aqui um GIF ou o link de um vídeo do projeto funcionando na sua bancada.*
-
 ---
 
 ## 💻 Como Executar este Repositório
